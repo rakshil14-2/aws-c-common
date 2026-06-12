@@ -273,3 +273,19 @@ To learn more about CBMC and proofs specifically, review the training material [
 The `verification/cbmc/proofs` directory contains CBMC proofs.
 
 In order to run these proofs you will need to install CBMC and other tools by following the instructions [here](https://model-checking.github.io/cbmc-training/installation.html).
+
+<!-- PLATFORM_SUPPORT_START -->
+# Platform Support
+
+## Tier 1 — Fully Supported & Tested in CI
+
+| Platform | Architecture |
+|----------|--------------|
+| manylinux2014 | x64, x86 |
+
+## Tier 2 — Supported (Not Tested in CI)
+
+| Platform | Architecture |
+|----------|--------------|
+
+<!-- PLATFORM_SUPPORT_END -->
