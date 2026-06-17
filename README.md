@@ -291,6 +291,6 @@ In order to run these proofs you will need to install CBMC and other tools by fo
 |------|---------|-----------|
 | clang | 4+ | All |
 | gcc | 4.8+ | All |
-| msvc | 15 | windows |
+| msvc | 17 | windows |
 
 <!-- PLATFORM_SUPPORT_END -->
