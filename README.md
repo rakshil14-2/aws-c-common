@@ -281,11 +281,21 @@ In order to run these proofs you will need to install CBMC and other tools by fo
 
 | Platform | Architecture |
 |----------|--------------|
-| manylinux2014 | x64, x86 |
+| Linux |  |
+| macOS-14 | x64, arm64 |
+| windows 11 | x64, x86 |
 
 ## Tier 2 — Supported (Not Tested in CI)
 
 | Platform | Architecture |
 |----------|--------------|
+
+## Supported Tools
+
+| Name | Version | Platforms |
+|------|---------|-----------|
+| clang | 4+ | All |
+| gcc | 4.8+ | All |
+| msvc | 17 | windows |
 
 <!-- PLATFORM_SUPPORT_END -->
